@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "48c7ed4e7da9792af288a60d7242d615",
-    "url": "/expo-service-worker.js"
+    "revision": "d0c694b562b2208635f250762cd7fc79",
+    "url": "/serve.json"
   },
   {
-    "revision": "3a4bafc6303590bcfb61",
-    "url": "/static/js/app.d6ff5016.chunk.js"
+    "revision": "157b529269ca5723c369",
+    "url": "/static/js/app.f198e49e.chunk.js"
   },
   {
-    "revision": "b93c26965cc45f6a322293535c182f69",
-    "url": "/static/js/app.d6ff5016.chunk.js.gz"
+    "revision": "0138b436163453578c1f670ac3c02baf",
+    "url": "/static/js/app.f198e49e.chunk.js.gz"
   },
   {
     "revision": "6165c9d7a2e729ba57b23dd93add5366",
@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "/./fonts/SimpleLineIcons.ttf"
   },
   {
-    "revision": "d0c694b562b2208635f250762cd7fc79",
-    "url": "/serve.json"
-  },
-  {
     "revision": "7a7bc7ead25db795e58b336f04d2624c",
     "url": "/favicon.ico"
+  },
+  {
+    "revision": "48c7ed4e7da9792af288a60d7242d615",
+    "url": "/expo-service-worker.js"
   },
   {
     "revision": "49a79d66bdea2debf1832bf4d7aca127",
@@ -156,7 +156,7 @@ self.__precacheManifest = [
     "url": "/apple/splash/icon_828x1792.png"
   },
   {
-    "revision": "bdc60a8df67e9d0bae8ca0cef76560c9",
+    "revision": "05188964de5965e730dff6e2a1e13873",
     "url": "/index.html"
   },
   {
